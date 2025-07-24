@@ -12,12 +12,12 @@ Apasionado por la mejora continua (Six Sigma), control de gestión y tecnología
 
 * Formación Académica
 
-Magíster en Data Science, Universidad de Las Américas, Santiago, Chile (Cursando, 2025)
-Ingeniería Civil Industrial, Universidad Mayor, Escuela de Ingeniería (2006–2011)
-Ingeniería en Gestión Informática, INACAP Apoquindo (2001–2005)
-Ingeniería de Ejecución Agrícola, INACAP Tabancura (1997–1999)
-Técnico Agrícola, INACAP Tabancura (1993–1996)
-Enseñanza Básica y Media, Colegio Calasanz (1979–1992)
+Magíster en Data Science, Universidad de Las Américas, Santiago, Chile (Cursando, 2025)\
+Ingeniería Civil Industrial, Universidad Mayor, Escuela de Ingeniería (2006–2011)\
+Ingeniería en Gestión Informática, INACAP Apoquindo (2001–2005)\
+Ingeniería de Ejecución Agrícola, INACAP Tabancura (1997–1999)\
+Técnico Agrícola, INACAP Tabancura (1993–1996)\
+Enseñanza Básica y Media, Colegio Calasanz (1979–1992)\
 
 * Cursos y Certificaciones
 
