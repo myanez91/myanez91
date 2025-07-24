@@ -21,33 +21,29 @@ Enseñanza Básica y Media, Colegio Calasanz (1979–1992)\
 
 * Cursos y Certificaciones
 
-Calidad Total Six Sigma White Belt (Julio 2009)
-Calidad y Mejora Continua (Diciembre 2008)
-Tasación Agrícola (Expropiación, Bancaria y Particular), Colegio de Ingenieros Agrónomos (Septiembre 2000)
+Calidad Total Six Sigma White Belt (Julio 2009)\
+Calidad y Mejora Continua (Diciembre 2008)\
+Tasación Agrícola (Expropiación, Bancaria y Particular), Colegio de Ingenieros Agrónomos (Septiembre 2000)\
 
 * Experiencia Laboral
 
-Ingeniero de Procesos, Sistemas y Tecnología Banco del Estado de Chile, Santiago (Noviembre 2006 – Presente)
+- Ingeniero de Procesos, Sistemas y Tecnología Banco del Estado de Chile, Santiago (Noviembre 2006 – Presente)
 
-Optimización de procesos corporativos, reduciendo tiempos y costos en bases de datos centrales.
-Análisis de requerimientos para servicios y productos bancarios, integrando soluciones basadas en datos.
-Soporte integral a ejecutivos, asegurando entrega eficiente de información a DataWarehouse y Sistemas Integrados de Gestión.
-Resolución de problemas para diversos segmentos y bancas mediante metodologías de mejora continua.
-Coordinador Informático
+Optimización de procesos corporativos, reduciendo tiempos y costos en bases de datos centrales.\
+Análisis de requerimientos para servicios y productos bancarios, integrando soluciones basadas en datos.\
+Soporte integral a ejecutivos, asegurando entrega eficiente de información a DataWarehouse y Sistemas Integrados de Gestión.\
+Resolución de problemas para diversos segmentos y bancas mediante metodologías de mejora continua.\
+Coordinador Informático\
 
-XINERGIA LABORAL, Santiago (Noviembre 2003 – Septiembre 2006)
+- XINERGIA LABORAL, Santiago (Noviembre 2003 – Septiembre 2006)
 
-Coordinación de proyectos externos para Banco del Estado en administración de infraestructura informática.
+Coordinación de proyectos externos para Banco del Estado en administración de infraestructura informática.\
+Liderazgo en ingeniería informática para el proyecto Bicentenario, enfocada en modernización tecnológica.\
+Soporte Técnico Computacional\
 
+- PREVIEW, Santiago (Diciembre 2000 – Octubre 2003)
 
-
-Liderazgo en ingeniería informática para el proyecto Bicentenario, enfocada en modernización tecnológica.
-
-Soporte Técnico Computacional
-
-PREVIEW, Santiago (Diciembre 2000 – Octubre 2003)
-
-Soporte externo en infraestructura para la Gerencia de Informática, Banco del Estado.
+Soporte externo en infraestructura para la Gerencia de Informática, Banco del Estado.\
 
 * Proyectos Destacados
 
