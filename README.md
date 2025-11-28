@@ -6,7 +6,7 @@ Fecha de Nacimiento: 27 de Octubre de 1973
 
 ## Perfil Profesional
 
-Ingeniero Civil Industrial, Ingeniero en Gestión Informática e Ingeniero de Ejecución Agrícola con más de 12 años de experiencia en informática, optimización de procesos y proyectos bancarios. 
+Ingeniero Civil Industrial, Ingeniero en Gestión Informática e Ingeniero de Ejecución Agrícola con más de 19 años de experiencia en informática, optimización de procesos y proyectos bancarios. 
 Actualmente cursando un Magíster en Data Science en la Universidad de Las Américas (2025), especializado en análisis de datos, minería de datos y modelamiento predictivo. 
 Apasionado por la mejora continua (Six Sigma), control de gestión y tecnología. Destaco por mi capacidad analítica, trabajo en equipo, proactividad y orientación a resultados.
 
