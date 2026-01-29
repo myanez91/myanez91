@@ -21,6 +21,9 @@ Enseñanza Básica y Media, Colegio Calasanz (1979–1992)\
 
 ## Cursos y Certificaciones
 
+Curso de Python 2025\
+Curso de R 2025\
+Curso Power Bi 2025\
 Calidad Total Six Sigma White Belt (Julio 2009)\
 Calidad y Mejora Continua (Diciembre 2008)\
 Tasación Agrícola (Expropiación, Bancaria y Particular), Colegio de Ingenieros Agrónomos (Septiembre 2000)\
