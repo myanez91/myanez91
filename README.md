@@ -4,7 +4,7 @@ Ingeniero Civil Industrial | Data Scientist en formación | Especialista en Proc
 
 🧠 Perfil Profesional
 
-Ingeniero Civil Industrial con formación complementaria en Gestión Informática y Ejecución Agrícola, y más de 19 años de experiencia en informática, optimización de procesos y gestión de proyectos bancarios. Actualmente cursa el Magíster en Data Science en la Universidad de Las Américas (2025), con especialización en análisis de datos, minería de datos y modelamiento predictivo.
+Ingeniero Civil Industrial con formación complementaria en Gestión Informática y Ejecución Agrícola, y más de 20 años de experiencia en informática, optimización de procesos y gestión de proyectos bancarios. Actualmente cursa el Magíster en Data Science en la Universidad de Las Américas (2025), con especialización en análisis de datos, minería de datos y modelamiento predictivo.
 
 Apasionado por la mejora continua (Six Sigma), el control de gestión y la tecnología. Se destaca por su capacidad analítica, trabajo colaborativo, proactividad y orientación a resultados.
 
