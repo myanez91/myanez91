@@ -1,6 +1,6 @@
 Marcelo Andrés Yáñez Barrientos
 
-Ingeniero Civil Industrial | Data Scientist en formación | Especialista en Procesos y Tecnología📧 myanez91@gmail.com🇨🇱 Chileno | 🎂 27 de octubre de 1973
+Ingeniero Civil Industrial | Data Scientist en formación | Especialista en Procesos y Tecnología | 📧 myanez91@gmail.com | 🇨🇱 Chileno | 🎂 27 de octubre de 1973
 
 🧠 Perfil Profesional
 
