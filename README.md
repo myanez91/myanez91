@@ -15,7 +15,7 @@ Ingeniería Civil Industrial, Universidad Mayor (2006–2011)\
 Ingeniería en Gestión Informática, INACAP Apoquindo (2001–2005)\
 Ingeniería de Ejecución Agrícola, INACAP Tabancura (1997–1999)\
 Técnico Agrícola, INACAP Tabancura (1993–1996)\
-Enseñanza Básica y Media, Colegio Calasanz (1979–1992)\
+Enseñanza Básica y Media, Colegio Calasanz (1979–1992)
 
 📚 Cursos y Certificaciones
 
@@ -40,7 +40,7 @@ XINERGIA LABORAL — Santiago (Noviembre 2003 – Septiembre 2006)
 
 Coordinador de proyectos externos para Banco del Estado.\
 Liderazgo en ingeniería informática para el Proyecto Bicentenario.\
-Soporte técnico computacional.\
+Soporte técnico computacional.
 
 PREVIEW — Santiago (Diciembre 2000 – Octubre 2003)
 
@@ -50,14 +50,14 @@ Soporte externo en infraestructura para la Gerencia de Informática del Banco de
 
 Optimización de Consultas al Registro Civil — Banco del Estado (2011)Inteligencia de negocio para reducir costos mediante almacenamiento eficiente y temporalidad de datos.\
 Proyecto Bicentenario — Banco del Estado (2003–2006)Coordinación de remodelación informática del edificio principal, optimizando áreas de atención al cliente.\
-Red Educacional Enlaces — Ministerio de Educación (2000–2003)Implementación de infraestructura informática en escuelas públicas y privadas de Chile.\
+Red Educacional Enlaces — Ministerio de Educación (2000–2003)Implementación de infraestructura informática en escuelas públicas y privadas de Chile.
 
 🛠️ Habilidades Técnicas
 
 Data Science y Análisis: Minería de datos, DataWarehouse, modelamiento predictivo, análisis estadístico.\
 Metodologías: Six Sigma, mejora continua, PHVA, Balanced Scorecard, Costeo ABC.\
 Modelos y Procesos: BPM, PPM, diseño y modelación de sistemas.\
-Herramientas: Microsoft SQL, Excel, Word, Project, Visio, Access (nivel medio); R, Python (en formación).\
+Herramientas: Microsoft SQL, Excel, Word, Project, Visio, Access (nivel medio); R, Python (en formación).
 
 Idiomas: Inglés técnico (nivel medio).
 
